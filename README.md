@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DevonDiv
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Software Development
+- 💞️ I’m looking to collaborate on Flutter and Artificial Intelligence 
+- 📫 How to reach me - divinecz22@gmail.com
